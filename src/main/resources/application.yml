@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: jenkins-learning-demo
+
+server:
+  servlet:
+    context-path: /jenkins-learning
+  port: 8081
