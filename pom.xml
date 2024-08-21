@@ -10,7 +10,7 @@
     </parent>
     <groupId>pers.chenjiahao</groupId>
     <artifactId>Jenkins-Learning</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>Jenkins-Learning</name>
     <description>Jenkins-Learning</description>
     <url/>
