@@ -25,4 +25,9 @@ public class JenkinsDemoController {
     public Object jenkinsDemo03(){
         return "jenkinsDemo03-提交代码自动化部署测试";
     }
+
+    @GetMapping("demo04")
+    public Object jenkinsDemo04(){
+        return "jenkinsDemo04-提交代码自动化部署测试";
+    }
 }
